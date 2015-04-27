@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1429276956 source:/home/jake/Desktop/klocki/1/project_template/main.cpp
+	<hFramework.h>
+	<stdio.h>
+	"lego.h"
+	"lego-touch.h"
+	"Hitechnic_Accel.h"
+
+1427723908 /home/jake/Desktop/klocki/1/include/hFramework.h
+	"hSystem.h"
+	"hMotor.h"
+	"hCAN.h"
+	"hExt.h"
+	"hSensor.h"
+	"hSD.h"
+	"hLED.h"
+	"hSerial.h"
+	"hUSB.h"
+	"hQueue.h"
+	"hMutex.h"
+	"hTypes.h"
+	"hEventBits.h"
+	"hServo.h"
+	"hUtils.h"
+	"ycm.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hSystem.h
+	"hTypes.h"
+	<stdarg.h>
+	"hPrintfDev.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hTypes.h
+	<stdint.h>
+
+1427723908 /home/jake/Desktop/klocki/1/include/hPrintfDev.h
+	"hTypes.h"
+	<stdarg.h>
+	"hStreamDev.h"
+
+1427723908 /home/jake/Desktop/klocki/1/include/hStreamDev.h
+	"hTypes.h"
+	<stdarg.h>
+
+1428845688 /home/jake/Desktop/klocki/1/include/hMotor.h
+	"hTypes.h"
+	"hRegulator.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hRegulator.h
+	"hTypes.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hCAN.h
+	"hTypes.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hExt.h
+	"hTypes.h"
+	"hGPIO.h"
+	"hSerial.h"
+	"hMutex.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hGPIO.h
+	<stdbool.h>
+	"hTypes.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hSerial.h
+	"hTypes.h"
+	"stdarg.h"
+	"hPrintfDev.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hMutex.h
+	"hTypes.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hSensor.h
+	"hTypes.h"
+	"hI2C.h"
+	"hGPIO.h"
+	"hSerial.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hI2C.h
+	<stdbool.h>
+	"hTypes.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hSD.h
+	"hTypes.h"
+	"hMutex.h"
+	"hPrintfDev.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hLED.h
+	"hTypes.h"
+	"hGPIO.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hUSB.h
+	"hFramework.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hQueue.h
+	"gqueue.h"
+	"hSystem.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/gqueue.h
+	"hTypes.h"
+
+1427826294 /home/jake/Desktop/klocki/1/include/hEventBits.h
+	"hTypes.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hServo.h
+	"hFramework.h"
+
+1428845688 /home/jake/Desktop/klocki/1/include/hUtils.h
+	"hTypes.h"
+	<stdarg.h>
+	"ycm.h"
+
+1428846078 /home/jake/Desktop/klocki/1/include/sensors/lego.h
+	<hFramework.h>
+
+1428846078 /home/jake/Desktop/klocki/1/include/sensors/lego-touch.h
+	<hFramework.h>
+	"lego.h"
+
+1428845342 /home/jake/Desktop/klocki/1/include/sensors/Hitechnic_Accel.h
+	<hFramework.h>
+
+1429528486 source:/home/jake/Desktop/klocki/1/project_template (copy)/main.cpp
+	<hFramework.h>
+	<stdio.h>
+	"lego.h"
+	"lego-touch.h"
+	"Hitechnic_Accel.h"
+	"Hitechnic_Gyro.h"
+	<math.h>
+
+1428845342 /home/jake/Desktop/klocki/1/include/sensors/Hitechnic_Gyro.h
+	<hFramework.h>
+
